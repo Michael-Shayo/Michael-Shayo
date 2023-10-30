@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael-Shayo
-- 👀 I’m interested in website development and frontend website development
+- 👀 I’m interested in website development & frontend website development
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on sysyteam based in websites 
 - 📫 How to reach me  through my email shayomichael174@gmail.com
