@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michael-Shayo
 - 👀 I’m interested in systeam development
-- 🌱 I’m currently learning  Django, python framewok arduino 
+- 🌱 I’m currently learning  Django and arduino 
 - 💞️ I’m looking to collaborate on Django and php
 - 📫 How to reach me Shayomichael174@gmail.com
 - 😄 Pronouns: ...
